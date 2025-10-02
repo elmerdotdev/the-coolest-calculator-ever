@@ -1,0 +1,13 @@
+{
+  "name": "@jrbalbin/the-coolest-calculator-ever",
+  "version": "1.3.0",
+  "description": "The coolest calculator in the world. Better than your calculator.",
+  "license": "ISC",
+  "author": "Elmer Mr. Nike Shoes",
+  "homepage": "https://ciccc.ca",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
