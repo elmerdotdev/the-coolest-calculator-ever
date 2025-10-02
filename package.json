@@ -7,6 +7,15 @@
   "homepage": "https://ciccc.ca",
   "type": "commonjs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elmerdotdev/the-coolest-calculator-ever"
+  },
+  "keywords": [
+    "elmers calculator",
+    "best calculator",
+    "coolest calculator"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
